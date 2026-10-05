@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pedido>
+    <destinatario>Juan Delgado Martínez</destinatario>
+    <articulo>Bicicleta Bianchi</articulo>
+    <direccion>
+        <calle>Reforma 423</calle>
+        <interior>201</interior>
+    </direccion>
+    <fecha_entrega>19-09-2021</fecha_entrega>
+</pedido>
